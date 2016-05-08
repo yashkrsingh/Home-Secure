@@ -5,10 +5,10 @@ potential risk like a gas leak or a fire situation or even an intrusion will be 
 immediate remedy.
 
 # Technologies Used
-- *Arduino C* is used to program Arduino Uno for the above given problem definition as well as to send the sensed data through
+- **Arduino C** is used to program Arduino Uno for the above given problem definition as well as to send the sensed data through
 ESP8266 to a local server.
-- *Java* based server is used to receive the sensor data from Arduino.
-- An *Android* Application is created for the user to get instant updates about the condition of his house.
+- **Java** based server is used to receive the sensor data from Arduino.
+- An **Android** Application is created for the user to get instant updates about the condition of his house.
 
 # Sensors Used
 - DHT22 : Temperature and Humidity sensor
